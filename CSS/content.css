@@ -1,0 +1,9 @@
+.contenido {
+    padding: 20px;
+    background-color: #ddd;
+    height: 450px;
+}
+
+h1, p {
+    margin: 0 0 10px;
+}
